@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 37,
+    "supported_formats": {
+      "min_inclusive": 37,
+      "max_inclusive": 100000000000000000000
+    },
+    "description": {
+      "text": "Elytra Trims Port"
+    }
+  }
+}

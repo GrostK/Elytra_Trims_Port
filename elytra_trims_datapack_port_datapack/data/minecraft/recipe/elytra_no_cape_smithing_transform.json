@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:elytra",
+  "addition": "minecraft:phantom_membrane",
+  "result": {
+    "id": "minecraft:elytra",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "asset_id": "minecraft:elytra_no_cape"
+      }
+    },
+    "count": 1
+  }
+}

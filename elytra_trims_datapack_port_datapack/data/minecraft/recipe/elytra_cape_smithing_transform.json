@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:elytra",
+  "addition": "minecraft:golden_carrot",
+  "result": {
+    "id": "minecraft:elytra",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "asset_id": "minecraft:elytra"
+      }
+    },
+    "count": 1
+  }
+}
